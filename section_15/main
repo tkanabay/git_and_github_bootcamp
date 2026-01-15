@@ -1,2 +1,3 @@
 commit 1 on main
 commit 2 on main
+commit 3 on main -- after merging main to feature, rebasing, then merging feature to main -- the history is now linear
