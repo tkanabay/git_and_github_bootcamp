@@ -1,0 +1,12 @@
+This section covered:
+- working with local config files
+- `refs` directory
+- `HEAD` file
+- `objects` directory
+- hashing functions
+- key-value datastore
+- hashing with `git hash-object`
+- retrieving data with `git cat-file`
+- blobs
+- trees
+- commits
